@@ -1,0 +1,12 @@
+gitlab_organizations:
+  - name: c2100-lab
+    repositories:
+      - agent-configurations-secure
+      - core-agency-confidential
+      - dr-memoria-learning-core
+      - CICD-FIRST-PUSH-AGENT-DRIVEN
+  - name: c2100lab
+    repositories:
+      - agents
+      - configurations
+      - core-systems
